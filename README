@@ -1,0 +1,9 @@
+Name: Donovan McDonough
+Date: 4/10/22
+
+To compile, use command "make". To run, use command "./oss". to clean up repository, use command "make clean".
+
+
+NOTE: Code is incomplete and program is not fully finished. Program is safe to run and cleans up after itself. Program currently does not use log files, but instead just outputs everything to the screen. As of right now, program decides random time for project to run, sends message, randomly decides if process is blocked, randomly decides how much allotted time the process uses, then returns that number to the system clock and keeps track. Program terminates after 10000 "nanoseconds" has been reached.
+
+NOTE2: Got stuck on trying to get the message queues to work for a VERY long time which is why project is so incomplete. You gave me an extension but I still was not able to complete more than this as I got stuck almost every step of the way.
